@@ -1,3 +1,13 @@
 body {
     text-align: center;
+ background-color: RGBA(4, 32, 41, 1);
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: RGBA(165, 119, 0, 1);
+}
+
+.site-title {
+  margin: 0;
 }
